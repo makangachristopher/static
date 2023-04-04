@@ -1,0 +1,2 @@
+# static
+Checking out gradle
